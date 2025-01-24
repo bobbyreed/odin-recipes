@@ -1,0 +1,15 @@
+button {
+    background-color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:aliceblue;
+    padding:5px;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: aquamarine;
+}
