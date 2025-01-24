@@ -2,14 +2,51 @@ button {
     background-color: blueviolet;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:aliceblue;
-    padding:5px;
+    margin: 5px auto;
+    display: block;
 }
-
+.recipes{
+    outline: auto;
+    border: 5px auto;
+    margin: 5px auto;
+}
+.recipes.content{
+    text-align: left;
+    margin: 10px 10px;
+}
 body {
     background-color: black;
     color: white;
+    outline: auto;
+    margin: auto 300px;
+}
+
+p {
+    margin: 10px 25px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    margin: 10px;
 }
 
 a {
     color: aquamarine;
+    font-size: larger;
+}
+
+.header{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
 }
